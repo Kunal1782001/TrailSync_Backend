@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\TrailSync\TrailSync\TrailSync_Backend"/>
 			<item value="C:\Users\Shubham\Desktop\PlanIt\PlanIt\PlanIt-Backend"/>
 		</list>
 		<list key="projectNameTemplate">
